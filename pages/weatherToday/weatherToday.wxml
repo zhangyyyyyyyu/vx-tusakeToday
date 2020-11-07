@@ -1,0 +1,8 @@
+<text>今日天气</text>
+<view>{{nowDate}}</view>
+<view>{{weatherCity}}</view>
+<view>温度：{{nowTemp}}</view>
+<view>风速：{{windSpeed}}</view>
+<view>风向：{{windDeraction}}</view>
+<view>湿度：{{humiDity}}</view>
+<view>信息为{{nowTime}}时刻所测</view>

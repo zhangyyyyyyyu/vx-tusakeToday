@@ -1,0 +1,7 @@
+<text class="ht-title">今天是:{{nowDate}}</text>
+<block wx:for="{{dataList}}" wx:key="index">
+  <view>
+    <text>{{item.year}}年{{nowDate}}</text>
+    <rich-text nodes="{{item.title}}"></rich-text>
+  </view>
+</block>

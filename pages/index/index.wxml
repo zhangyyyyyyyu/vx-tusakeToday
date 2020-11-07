@@ -1,0 +1,4 @@
+<text>欢迎使用微信小程序</text>
+<navigator url="../historyToday/historyToday">2</navigator>
+<navigator url="../weatherToday/weatherToday">3</navigator>
+<navigator url="../toDoList/toDoList">4</navigator>
